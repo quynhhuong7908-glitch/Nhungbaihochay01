@@ -9,18 +9,24 @@ li {
 
 *{
   font-famiy: Arial;
- }
-.container{
-     display: flex;
-     flex-direction: column;
-     height: 100vh;
 }
- header{
-       flex: 5%;
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.header{
+  flex: 15%;
+  background-colour: lightgray;
      }
+.menu{
+  flex: 5%;
+  background-colour: gray;
 .content {
   flex: 70%;
+  background-colour: white;
 }
 .footer{
   flex: 10%;
-  
+  background-colour: lightgray;
+}
