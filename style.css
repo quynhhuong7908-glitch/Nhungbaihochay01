@@ -15,3 +15,12 @@ li {
      flex-direction: column;
      height: 100vh;
 }
+ header{
+       flex: 5%;
+     }
+.content {
+  flex: 70%;
+}
+.footer{
+  flex: 10%;
+  
