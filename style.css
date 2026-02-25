@@ -19,9 +19,15 @@ li {
   flex: 15%;
   background-colour: lightyellow;
 }
-.menu{
+.menu a{
+  padding: 15px 20px;
+  colour: pink;
   flex: 5%;
   background-colour: lightblue;
+}
+.menu hover{
+  background-colour: lightgray;
+  colour: black;
 }
 .content {
   flex: 70%;
