@@ -26,6 +26,12 @@ li {
   flex: 70%;
   background-colour: white;
 }
+.content iframe{
+  flex: 1;
+  border: none;
+  width: 100%;
+  height: 100%;
+}
 .footer{
   flex: 10%;
   background-colour: lightgray;
