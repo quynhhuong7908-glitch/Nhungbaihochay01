@@ -32,7 +32,7 @@ li {
   background-colour: lightgray;
   colour: black;
 }
-.content {
+.content{
   flex: 70%;
   background-colour: white;
 }
