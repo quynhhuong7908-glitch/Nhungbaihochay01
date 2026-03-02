@@ -19,11 +19,14 @@ li {
   flex: 15%;
   background-colour: lightyellow;
 }
+.menu{
+  flex: 5%;
+  back-ground-color: darkgray;
+  color: white;
+  display: flex;
+}
 .menu a{
   padding: 15px 20px;
-  colour: pink;
-  flex: 5%;
-  background-colour: lightblue;
 }
 .menu hover{
   background-colour: lightgray;
