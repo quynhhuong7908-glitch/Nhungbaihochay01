@@ -17,11 +17,11 @@ li {
 }
 .header{
   flex: 15%;
-  background-colour: lightyellow;
+  background-color: lightyellow;
 }
 .menu{
   flex: 5%;
-  back-ground-color: darkgray;
+  background-color: darkgray;
   color: white;
   display: flex;
 }
@@ -29,12 +29,12 @@ li {
   padding: 15px 20px;
 }
 .menu hover{
-  background-colour: lightgray;
-  colour: black;
+  background-color: lightgray;
+  color: black;
 }
 .content{
   flex: 70%;
-  background-colour: white;
+  background-color: white;
 }
 .content iframe{
   flex: 1;
@@ -44,5 +44,5 @@ li {
 }
 .footer{
   flex: 10%;
-  background-colour: lightyellow;
+  background-color: lightyellow;
 }
