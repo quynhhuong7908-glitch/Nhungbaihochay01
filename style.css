@@ -17,7 +17,7 @@ li {
 }
 .header{
   flex: 15%;
-  background-color: lightyellow;
+  background-color: lightgreen;
 }
 .menu{
   flex: 5%;
@@ -44,5 +44,5 @@ li {
 }
 .footer{
   flex: 10%;
-  background-color: lightyellow;
+  background-color: lightgreen;
 }
