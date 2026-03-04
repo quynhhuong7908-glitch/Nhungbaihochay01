@@ -10,7 +10,7 @@ li {
 *{
   font-size: 40px;  
   font-weight: bold;
-  font-famiy: Arial;
+  font-famiy: "Times New Roman";
 }
 .container{
   display: flex;
